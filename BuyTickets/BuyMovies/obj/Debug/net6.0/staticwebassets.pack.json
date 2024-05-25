@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BuyMovies.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BuyMovies.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\0f0c3d77-cf15-4c44-bb90-fc5da817fd24cold.jpeg.crdownload",
+      "PackagePath": "staticwebassets\\Files\\Images\\0f0c3d77-cf15-4c44-bb90-fc5da817fd24cold.jpeg.crdownload"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\23ebbe3b-4810-4c53-8a67-105f0f8b8b29Cold Soles.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\23ebbe3b-4810-4c53-8a67-105f0f8b8b29Cold Soles.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\3bed9ad9-5ce5-40cc-8a74-156e2972ea65Zawaya Cinema.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\3bed9ad9-5ce5-40cc-8a74-156e2972ea65Zawaya Cinema.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\482dd895-eb0b-438d-bc80-f3e8d8dec77ascoop.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\482dd895-eb0b-438d-bc80-f3e8d8dec77ascoop.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\5b99eb94-7d73-4c3b-a4e7-d054fcd3e7f2Fastx.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\5b99eb94-7d73-4c3b-a4e7-d054fcd3e7f2Fastx.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\61d3e9d2-a92f-4e6a-b556-010e57ace45cFastx.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\61d3e9d2-a92f-4e6a-b556-010e57ace45cFastx.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\6b998a1e-9f91-4859-a148-f9eddb977e79Life.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\6b998a1e-9f91-4859-a148-f9eddb977e79Life.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\710073ae-8f99-40bd-b33f-fff9e8c58346IMG-20220208-WA0015.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\710073ae-8f99-40bd-b33f-fff9e8c58346IMG-20220208-WA0015.jpg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\71a9cdbc-37a6-4ce9-bd31-e9593786c62dwallpaperflare.com_wallpaper (3).jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\71a9cdbc-37a6-4ce9-bd31-e9593786c62dwallpaperflare.com_wallpaper (3).jpg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\71b4e0c7-54de-4e20-be97-01a72d41c850Galaxy Cinema.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\71b4e0c7-54de-4e20-be97-01a72d41c850Galaxy Cinema.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\89c3592c-bede-4c6d-9ad5-c99a38889ef6IMG_20220211_101013_427.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\89c3592c-bede-4c6d-9ad5-c99a38889ef6IMG_20220211_101013_427.jpg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\a0ab8887-3e47-4122-9657-44632377a2a5cold sales.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\a0ab8887-3e47-4122-9657-44632377a2a5cold sales.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\d88169ca-a30d-4a23-b6e3-eb1aed363b0fFast X.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\d88169ca-a30d-4a23-b6e3-eb1aed363b0fFast X.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\ddc81d38-ed06-4887-9c64-cf88aa1a8f1drace.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\ddc81d38-ed06-4887-9c64-cf88aa1a8f1drace.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\e4d867b0-0086-432b-9e3c-99c8ea500a47Fastx.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\e4d867b0-0086-432b-9e3c-99c8ea500a47Fastx.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\Files\\Images\\f3365c6c-8120-4468-a5c0-428364f54a71Cairo Cinema.jpeg",
+      "PackagePath": "staticwebassets\\Files\\Images\\f3365c6c-8120-4468-a5c0-428364f54a71Cairo Cinema.jpeg"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\css\\AuthStyle.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyle.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\.NetCourse\\Assignments c#\\Project Movies\\BuyMovies\\BuyMovies\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BuyMovies.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BuyMovies.props",
+      "PackagePath": "build\\BuyMovies.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BuyMovies.props",
+      "PackagePath": "buildMultiTargeting\\BuyMovies.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BuyMovies.props",
+      "PackagePath": "buildTransitive\\BuyMovies.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

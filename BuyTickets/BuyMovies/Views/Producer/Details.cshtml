@@ -1,0 +1,35 @@
+﻿@model ProducerViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details of Producer</h1>
+
+<br />
+<br />
+<form asp-action="Details">
+    <div class="row">
+        <div class="col-md-8 offset-2">
+            
+            <Partial name="PartialViews/_DetailsDeletePartialView">
+
+                <div class="form-group">
+                    <a asp-action="Edit" asp-controller="Producer" asp-route-Id="@Model.Id" class="btn btn-outline-success float-right">Edit</a>
+                    <a asp-action="Index" class="btn btn-outline-secondary ">Show All</a>
+                </div>
+        </div>
+
+    </div>
+</form>
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        $(document).ready(function () {
+            var output = document.getElementById('ProfilePicturePreview');
+            output.src = $("#ProfilePictureURL").val();
+        })
+    </script>
+
+    }
+
+

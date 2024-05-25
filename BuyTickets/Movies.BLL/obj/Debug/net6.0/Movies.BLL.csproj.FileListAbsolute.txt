@@ -1,0 +1,15 @@
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\bin\Debug\net6.0\Movies.BLL.deps.json
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\bin\Debug\net6.0\Movies.BLL.dll
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\bin\Debug\net6.0\Movies.BLL.pdb
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\bin\Debug\net6.0\Movies.DAL.dll
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\bin\Debug\net6.0\Movies.DAL.pdb
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.csproj.AssemblyReference.cache
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.AssemblyInfoInputs.cache
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.AssemblyInfo.cs
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.csproj.CoreCompileInputs.cache
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.csproj.CopyComplete
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.dll
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\refint\Movies.BLL.dll
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\Movies.BLL.pdb
+F:\.NetCourse\Assignments c#\Project Movies\BuyMovies\Movies.BLL\obj\Debug\net6.0\ref\Movies.BLL.dll

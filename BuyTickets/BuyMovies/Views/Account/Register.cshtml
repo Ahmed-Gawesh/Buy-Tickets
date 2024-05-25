@@ -1,0 +1,38 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+
+<form asp-action="Register" >
+    <div asp-validation-summary="All"></div>
+<div class="input-box">
+    <input type="text" asp-for="FName" placeholder="Enter your First Name" required="">
+</div>
+<div class="input-box">
+    <input type="text" asp-for="LName" placeholder="Enter your Last Name" required="">
+</div>
+<div class="input-box">
+    <input type="text" asp-for="Email" placeholder="Enter your E-Mail" required="">
+</div>
+<div class="input-box">
+    <input type="password" asp-for="Password" placeholder="Create password" required="">
+</div>
+<div class="input-box">
+    <input type="password" asp-for="ConfirmPassword" placeholder="Confirm password" required="">
+</div>
+    <div class="wthree-text">
+        <label class="anim">
+            <input asp-for="IsAgree" class="checkbox" required="">
+            <span>I Agree To The Terms & Conditions</span>
+        </label>
+        <div class="clear"> </div>
+    </div>
+<div class="input-box button">
+    <input type="Submit" value="Register Now">
+</div>
+<div class="text">
+    <h3>Already have an account? <a asp-action="Login">Login now</a></h3>
+</div>  
+</form>

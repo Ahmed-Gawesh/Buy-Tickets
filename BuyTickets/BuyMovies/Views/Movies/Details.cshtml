@@ -1,0 +1,108 @@
+﻿@model MovieViewModel
+@inject IUnitOfWork unitofWork
+@{
+    var cinemas = new SelectList(await unitofWork.CinemaRepository.GetAll(), "Id", "FullName");
+    var actors = new SelectList(await unitofWork.ActorRepository.GetAll(), "Id", "FullName");
+    var producers = new SelectList(await unitofWork.ProducerRepository.GetAll(), "Id", "FullName");
+}
+@{
+    ViewData["Title"] = "Details of Movie Cart";
+}
+
+
+<form asp-action="Details">
+    <div class="row">
+        <div class="col-md-8 offset-2">
+           
+            <div class="col-md-4 offset-4  text-center ">
+                <img width="50%" hight="50%" id="ImageURLPreview" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" readonly />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StartDate" class="control-label"></label>
+                <input asp-for="StartDate" type="date" class="form-control" readonly />
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate" class="control-label"></label>
+                <input asp-for="EndDate" type="date" class="form-control" readonly />
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" type="number" class="form-control" readonly />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageURL" class="control-label"></label>
+                <input asp-for="ImageURL" class="form-control" readonly />
+                <span asp-validation-for="ImageURL" class="text-danger"></span>
+
+            </div>
+
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="CinemaId" class="control-label"></label>
+                    <select asp-for="CinemaId" class="form-control" asp-items="@cinemas" readonly></select>
+                    <span asp-validation-for="CinemaId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MovieCategory" class="control-label"></label>
+                    <select asp-for="MovieCategory" class="form-control" asp-items="Html.GetEnumSelectList<MovieCategory>()" readonly></select>
+                    <span asp-validation-for="MovieCategory" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ProducerId" class="control-label"></label>
+                    <select asp-for="ProducerId" class="form-control" asp-items="@producers" readonly></select>
+                    <span asp-validation-for="ProducerId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ActorIds" class="control-label" readonly></label>
+                    <select asp-for="ActorIds" class="form-control" asp-items="actors"  readonly></select>
+                    <span asp-validation-for="ActorIds" class="text-danger" readonly></span>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <textarea asp-for="Description" class="form-control" readonly></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+            <br />
+
+     
+
+                <div class="form-group">
+                     @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                {
+                    <a asp-action="Edit" asp-controller="Movies" asp-route-id="@Model.Id" class="btn btn-outline-success float-right">Edit</a>
+
+                }
+                <a asp-action="Index" class="btn btn-outline-secondary ">Show All</a>
+                </div>
+        </div>
+
+    </div>
+</form>
+
+
+
+
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        $(document).ready(function () {
+            var output = document.getElementById('ImageURLPreview');
+            output.src = $("#ImageURLPreview").val();
+        })
+    </script>
+
+    }
+
+

@@ -1,0 +1,70 @@
+﻿
+
+@model MovieViewModel
+@inject IUnitOfWork unitofWork
+@{
+    var cinemas = new SelectList(await unitofWork.CinemaRepository.GetAll(), "Id", "FullName");
+    var actors =  new SelectList(await unitofWork.ActorRepository.GetAll(), "Id", "FullName");
+    var producers = new SelectList(await unitofWork.ProducerRepository.GetAll(), "Id", "FullName");
+}
+
+
+
+<div class="form-group">
+    <label asp-for="Name" class="control-label"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="StartDate" class="control-label"></label>
+    <input asp-for="StartDate" type="date" class="form-control" />
+    <span asp-validation-for="StartDate" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="EndDate" class="control-label"></label>
+    <input asp-for="EndDate" type="date" class="form-control" />
+    <span asp-validation-for="EndDate" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Price" class="control-label"></label>
+    <input asp-for="Price" type="number" class="form-control" />
+    <span asp-validation-for="Price" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="ImageFile" class="control-label"></label>
+    <input asp-for="ImageFile" class="form-control" />
+</div>
+                       
+<div class="col-md-6">
+    <div class="form-group">
+        <label asp-for="CinemaId" class="control-label"></label>
+        <select asp-for="CinemaId" class="form-control" asp-items="@cinemas"></select>
+        <span asp-validation-for="CinemaId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MovieCategory" class="control-label"></label>
+        <select asp-for="MovieCategory" class="form-control" asp-items="Html.GetEnumSelectList<MovieCategory>()"></select>
+        <span asp-validation-for="MovieCategory" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ProducerId" class="control-label"></label>
+        <select asp-for="ProducerId" class="form-control" asp-items="@producers"></select>
+        <span asp-validation-for="ProducerId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ActorIds" class="control-label"></label>
+        <select asp-for="ActorIds" class="form-control" asp-items="@actors"></select>
+        <span asp-validation-for="ActorIds" class="text-danger"></span>
+    </div>
+</div>
+<div class="col-md-12">
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+</div>
+<br/>
+
+                   
+

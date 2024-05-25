@@ -1,0 +1,28 @@
+﻿@model MovieViewModel
+@{
+    ViewData["Title"] = "Add New Movie";
+}
+
+<h1>Add New Movie</h1>
+<br/>
+<br/>
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="row" >
+
+        <div class="col-md-8 offset-2" >
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <Partial name="PartialViews/_CreateEditPartialView">
+
+                <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-outline-success float-right" />
+                <a asp-action="Index" class="btn btn-outline-secondary ">Show All</a>
+                </div>
+        </div>
+ 
+    </div>
+</form>
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+
+    }
+

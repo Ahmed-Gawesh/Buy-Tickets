@@ -1,0 +1,29 @@
+﻿@model ActorViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details of Actor</h1>
+
+<br />
+<br />
+<form asp-action="Details">
+    <div class="row">
+        <div class="col-md-8 offset-2">
+            
+            <Partial name="PartialViews/_DetailsDeletePartialView">
+
+                <div class="form-group">
+                    <a asp-action="Edit" asp-controller="Actor" asp-route-Id="@Model.Id" class="btn btn-outline-success float-right">Edit</a>
+                    <a asp-action="Index" class="btn btn-outline-secondary ">Show All</a>
+                </div>
+        </div>
+
+    </div>
+</form>
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+
+    }
+
+

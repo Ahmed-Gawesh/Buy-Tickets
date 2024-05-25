@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<!-- Coding By CodingNepal - codingnepalweb.com -->
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Registration or Sign Up form in HTML CSS | CodingLab </title>
+    <link href="~/css/AuthStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="wrapper">
+        <h2>@ViewData["Title"]</h2>
+        
+         @RenderBody();
+       
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    @await RenderSectionAsync("ValidationScriptSection", required: false)
+</body>
+</html>

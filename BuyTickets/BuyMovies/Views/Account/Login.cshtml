@@ -1,0 +1,34 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<form asp-action="Login">
+    <div asp-validation-summary="All"></div>
+    <div class="input-box">
+        <input type="text" asp-for="Email" placeholder="Enter your E-Mail" required="">
+    </div>
+    <div class="input-box">
+        <input type="password" asp-for="Password" placeholder="Enter your Password" required="">
+    </div>
+
+    <div class="wthree-text">
+        <label class="anim">
+            <input asp-for="RememberMe" class="checkbox" >
+            <span>Remember Me</span>
+        </label>
+        <div class="clear"> </div>
+    </div>
+    <div class="input-box button">
+        <input type="Submit" value="Login">
+    </div>
+    <div class="text">
+        <h3>Don't have an account? <a asp-action="Register">Register now</a></h3>
+        <h3> <a asp-action="ForgetPassword"> Forget Passowrd!</a></h3>
+
+    </div>
+</form>
+@section ValidationScriptSection{
+    <partial name="_ValidationScriptsPartial" />
+}
